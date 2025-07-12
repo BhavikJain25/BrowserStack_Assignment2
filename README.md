@@ -20,9 +20,8 @@ This project is created as part of the **BrowserStack Round 2 Technical Assignme
 
 ```
 browserstack_assignment/
-├── README.md                # Complete project documentation
+├── README.md                
 ├── requirements.txt         # Python dependencies
-├── .gitignore               # Optional (ignore venv, __pycache__)
 ├── browserstack_runner.py   # BrowserStack parallel testing code
 ├── main.py                  # Scraper + Translator + Word Frequency logic
 ├── screenshots/             # Folder for scraped article images
