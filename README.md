@@ -18,6 +18,8 @@ This project is created as part of the **BrowserStack Round 2 Technical Assignme
 
 ## 🗂️ Folder Structure
 
+
+
 browserstack_assignment/
 ├── main.py # Web scraping, translation, analysis logic
 ├── browserstack_runner.py # Runs cross-browser parallel test on BrowserStack
