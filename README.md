@@ -18,7 +18,7 @@ This project is created as part of the **BrowserStack Round 2 Technical Assignme
 
 ## 🗂️ Folder Structure
 
-browserstack_assignment/
+'''browserstack_assignment/
 ├── README.md # Complete project documentation
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Ignore venv, pycache, etc.
@@ -29,4 +29,4 @@ browserstack_assignment/
 │ ├── image2.jpg
 │ └── ...
 ├── browserstack.yaml # Optional: For BrowserStack CLI SDK
-└── venv/ # Your virtual environment (should be .gitignored)
+└── venv/ # Your virtual environment (should be .gitignored)'''
