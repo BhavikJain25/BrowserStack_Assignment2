@@ -56,6 +56,7 @@ browserstack_assignment/
 2. Replace `USERNAME` and `ACCESS_KEY` with your own credentials (already done)
 3. Run script  
    `python browserstack_runner.py`
+```
 
 
 
