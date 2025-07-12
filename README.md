@@ -20,7 +20,7 @@ This project is created as part of the **BrowserStack Round 2 Technical Assignme
 
 
 browserstack_assignment/
-├── README.md                    # Complete project documentation/n
+├── README.md                    # Complete project documentation
 ├── requirements.txt             # Python dependencies
 
 ├── .gitignore                   # Optional (ignore venv, __pycache__)
