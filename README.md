@@ -65,6 +65,8 @@ You should see live session logs on [BrowserStack Automate Dashboard](https://au
 
 ---
 
+
+
 **## 🛠️ Tools & Technologies Used**
 
 - Python 3.x
@@ -73,6 +75,8 @@ You should see live session logs on [BrowserStack Automate Dashboard](https://au
 - Google Translate API (or any free alternative)
 
 ---
+
+
 
 ## 📸 Screenshots
 
