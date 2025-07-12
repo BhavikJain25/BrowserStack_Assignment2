@@ -60,12 +60,11 @@ browserstack_assignment/
 You should see live session logs on [BrowserStack Automate Dashboard](https://automate.browserstack.com/projects/Default+Project/builds/MultiBrowser+Android+Build/1?tab=tests&testListView=spec&public_token=691b8f210d9931726adc0ba01201c598355c9d4ab52d79c0463e156dbd0d1627)
 
 Dashboard Summary (https://automate.browserstack.com/projects/Default+Project/builds/MultiBrowser+Android+Build/1?public_token=691b8f210d9931726adc0ba01201c598355c9d4ab52d79c0463e156dbd0d1627)
-
 ---
 
 
 
-__## 🛠️ Tools & Technologies Used__
+**## 🛠️ Tools & Technologies Used**
 
 - Python 3.x
 - Selenium WebDriver
