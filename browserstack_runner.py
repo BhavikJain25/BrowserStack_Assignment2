@@ -32,7 +32,7 @@ def create_options(browser, os_name, os_version, session_name):
     })
     return options
 
-# ✅ 4 desktop + 1 mobile browser
+# 4 desktop + 1 mobile browser
 browsers = [
     create_options("Chrome", "Windows", "11", "Windows Chrome - 11"),
     create_options("Firefox", "Windows", "10", "Windows Firefox - 10"),
