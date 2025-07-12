@@ -38,7 +38,7 @@ browserstack_assignment/
 
 ---
 
-### 🚀 4. How to Run (Local + BrowserStack)
+### 🚀  How to Run (Local + BrowserStack)
 
 ```md
 ## 🚀 How to Run
@@ -63,7 +63,7 @@ Dashboard Summary (https://automate.browserstack.com/projects/Default+Project/bu
 
 ---
 
-## 🛠️ Tools & Technologies Used
+**## 🛠️ Tools & Technologies Used**
 
 - Python 3.x
 - Selenium WebDriver
