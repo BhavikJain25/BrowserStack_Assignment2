@@ -19,17 +19,23 @@ This project is created as part of the **BrowserStack Round 2 Technical Assignme
 ## 🗂️ Folder Structure
 
 
-
 browserstack_assignment/
 ├── README.md                    # Complete project documentation
+
 ├── requirements.txt             # Python dependencies
+
 ├── .gitignore                   # Optional (ignore venv, __pycache__)
+
 ├── browserstack_runner.py       # BrowserStack parallel testing code
+
 ├── main.py                      # Scraper + Translator + Word Frequency logic
+
 ├── screenshots/                 # Folder for scraped article images
 │   ├── image1.jpg
 │   ├── image2.jpg
 │   └── ...
+
 ├── browserstack.yaml            # Optional: used only if you use BStack SDK
+
 └── venv/                        # Your virtual environment (should be .gitignored)
 
