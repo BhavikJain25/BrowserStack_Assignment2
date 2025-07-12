@@ -1,0 +1,11 @@
+project: browserstack_assignment
+author: Bhavik
+language: Python
+tests:
+  - local_scraper: main.py
+  - browserstack_runner: browserstack_runner.py
+dependencies:
+  - selenium
+  - googletrans==4.0.0-rc1
+  - requests
+  - webdriver-manager
