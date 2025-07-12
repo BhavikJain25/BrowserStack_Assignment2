@@ -65,20 +65,7 @@ Dashboard Summary (https://automate.browserstack.com/projects/Default+Project/bu
 
 
 
-**## 🛠️ Tools & Technologies Used**
-
-- **Python 3.x**
-- **Selenium WebDriver**
-- **BrowserStack Automate**
-- **Google Translate API** (or any free alternative)
-
----
-
-**## 📸 Screenshots**
-
-> 🔗 **Screenshot of Build Running**: [View on Google Drive](https://drive.google.com/drive/folders/1ittltRg_Cy81hZDesYt6jIKj4JUKQgHB?usp=sharing)
-
-**## 🛠️ Tools & Technologies Used**
+__## 🛠️ Tools & Technologies Used__
 
 - Python 3.x
 - Selenium WebDriver
